@@ -536,6 +536,19 @@ button {
     box-shadow: none;
 }
 
+.form-control {
+    display: block;
+    width: 90%;
+    height: 30px;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -810,6 +823,7 @@ h4 {
 
 .tc-white {
     color: #dff36c!important;
+    text-align: center;
 }
 
 .btn-atomic-tangerine {
