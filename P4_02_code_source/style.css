@@ -347,6 +347,7 @@ ul {
 
 .partenaire-header {
     margin-left: 3rem;
+    color: white !important;
 }
 .nav > li {
     float: left;
@@ -825,7 +826,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background: #F3976C!important;
+    background: black!important;
 
 }
 
@@ -834,10 +835,9 @@ h4 {
     text-align: center;
 }
 
-.hero-bloc-text {
-    color: black;
+.list-item {
+    color: white !important;
 }
-
 .final-button {
     background-color: #F3976C;
     border-radius: 1rem;
