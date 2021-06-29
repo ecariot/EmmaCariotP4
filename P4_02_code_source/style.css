@@ -345,6 +345,10 @@ ul {
     list-style-type: none;
 }
 
+.btn:focus {
+    border: solid 1px orange;
+}
+
 .partenaire-header {
     margin-left: 3rem;
     color: white !important;
