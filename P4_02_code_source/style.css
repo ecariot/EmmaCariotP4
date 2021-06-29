@@ -825,13 +825,17 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background: #c27956!important;
+    background: #F3976C!important;
 
 }
 
 .tc-white {
-    color: black !important;
+    color: #ddda0c !important;
     text-align: center;
+}
+
+.hero-bloc-text {
+    color: black;
 }
 
 .final-button {
