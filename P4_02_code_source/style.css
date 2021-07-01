@@ -345,9 +345,11 @@ ul {
     list-style-type: none;
 }
 
-.btn:focus {
-    border: solid 1px orange;
+a:focus, .btn:focus {
+    outline: white 1px solid !important;
 }
+
+
 
 .partenaire-header {
     margin-left: 3rem;
@@ -895,7 +897,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation1.png") !important;
 }
 
 @media (max-width: 1024px) {
